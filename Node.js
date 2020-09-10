@@ -18,7 +18,7 @@ var upload = multer({
 /* Define post request upload files */
 var cpUpload = upload.any();
 
-app.post("/composite", cpUpload, function (req, res) {
+app.post("/create", cpUpload, function (req, res) {
 
     try {
         /* Init image Operation Object */
