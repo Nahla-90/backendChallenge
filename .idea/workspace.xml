@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74978e3d-127d-4c54-8a33-e8bce96bca5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hHqBWZ45aE6NPOCNf0rHZTTh9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../teehag.dev" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74978e3d-127d-4c54-8a33-e8bce96bca5a" name="Default Changelist" comment="" />
+      <created>1599678229340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599678229340</updated>
+      <workItem from="1599678230459" duration="3329000" />
+      <workItem from="1599711867770" duration="21764000" />
+      <workItem from="1599766072031" duration="5747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="122" width="424" height="482" key="FileChooserDialogImpl" timestamp="1599712527868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="122" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599712527868" />
+    <state x="383" y="108" width="589" height="512" key="find.popup" timestamp="1599763513770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="108" width="589" height="512" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599763513770" />
+  </component>
+</project>
