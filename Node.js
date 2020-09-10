@@ -38,15 +38,15 @@ app.post("/create", cpUpload, function (req, res) {
             } else {
 
                 /* Fail composite operation */
-                res.status(500).send({error: imageOperation.error}).end();
+                res.status(500).send({error: {message:imageOperation.error}}).end();
             }
         } else {
 
             /* Invalid data for composite operation */
-            res.status(500).send({error: imageOperation.getValidationErrors().toString()}).end();
+            res.status(500).send({error: {message:imageOperation.getValidationErrors().toString()}}).end();
         }
     } catch (e) {
-        res.status(500).send({error: e.toString()}).end();
+        res.status(500).send({error: {message:e.toString()}}).end();
     }
 });
 

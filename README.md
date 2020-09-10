@@ -3,8 +3,7 @@
 ## Installation
 payment API (Symfony): http://paymentvalidator.dev
 
-##Usage : 
- 
+##Usage : $ node Node.js
      URL: localhost:8080/create
      METHOD: POST
      DATA: {
